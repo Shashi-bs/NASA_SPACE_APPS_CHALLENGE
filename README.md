@@ -36,7 +36,7 @@ A web platform designed to help students and teachers engage with the 17 Sustain
 
 1. *Clone the repository*:
    bash
-   git clone https://github.com/SharathxD/NASA_SPACE_APPS_CHALLENGE.git
+   git clone https://github.com/ShashiBanagere/NASA_SPACE_APPS_CHALLENGE.git
 
 2. **Install the dependencies**:
    bash
